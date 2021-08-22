@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shashankmalik
 - 👀 I’m interested in working with organisations that want to make effective use of their data.
-- 🌱 I’m currently learning AWS Solution Architecture.
-- 💞️ I’m looking to collaborate on SQL & Python issues.
+- 🌱 I’m currently improving my python skills.
+- 💞️ I’m looking to collaborate on Python issues.
 - 📫 You can reach me at https://shashankmalik.github.io/#contact
 
 <!---
